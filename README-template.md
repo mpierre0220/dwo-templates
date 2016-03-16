@@ -5,8 +5,7 @@
 [comment]: # (and compliant to developerWorks Open syntax. At minimum this file)
 [comment]: # (should have the Usage / Getting Started section, a pointer to the)
 [comment]: # (formal documentation if it exists, a pointer to samples and)
-[comment]: # (the developerWorks Open sections)
- 
+[comment]: # (the developerWorks Open sections) 
 Your Project Title Here
 ===
 ***
