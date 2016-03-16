@@ -1,11 +1,11 @@
 
-[//]: <> (developerWorks Open README.md v1.0)
+[commemt]: # (developerWorks Open README.md v1.0)
 
-[//]: <> (This is a template for README.md, compliant to the Markdown syntax)
-[//]: <> (#and compliant to developerWorks Open syntax. At minimum this file)
-[//]: <> (#should have the Usage / Getting Started section, a pointer to the)
-[//]: <> (#formal documentation if it exists, a pointer to samples and) 
-[//]: <> (#the developerWorks Open sections)
+[//]: <> (This is a template for README.md, compliant to the Markdown syntax) .
+[//]: <> (#and compliant to developerWorks Open syntax. At minimum this file) .
+[//]: <> (#should have the Usage / Getting Started section, a pointer to the) .
+[//]: <> (#formal documentation if it exists, a pointer to samples and) .
+[//]: <> (#the developerWorks Open sections) .
  
 Your Project Title Here
 ===
