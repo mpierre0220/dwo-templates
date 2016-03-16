@@ -5,7 +5,7 @@
 #should have the Usage / Getting Started section, a pointer to the
 # formal documentation if it exists, a pointer to samples and 
 #the developerWorks Open sections
-
+ 
 Your Project Title Here
 ===
 ***
