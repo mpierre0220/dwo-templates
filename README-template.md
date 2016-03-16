@@ -1,10 +1,10 @@
 
 [comment]: # (developerWorks Open README.md v1.0)
 
-[comment]: # (This is a template for README.md, compliant to the Markdown syntax) .
-[comment]: # (and compliant to developerWorks Open syntax. At minimum this file) .
-[comment]: # (should have the Usage / Getting Started section, a pointer to the) .
-[comment]: # (formal documentation if it exists, a pointer to samples and) .
+[comment]: # (This is a template for README.md, compliant to the Markdown syntax)
+[comment]: # (and compliant to developerWorks Open syntax. At minimum this file)
+[comment]: # (should have the Usage / Getting Started section, a pointer to the)
+[comment]: # (formal documentation if it exists, a pointer to samples and)
 [comment]: # (the developerWorks Open sections) .
  
 Your Project Title Here
